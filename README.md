@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @JEET-margalo
-- 👀 I’m interested in ...hacking,application building and web designing
-- 🌱 I’m currently learning ...hacking using kali linux
-- 💞️ I’m looking to collaborate on ...anything
+- 👋 Hi, I’m @JEEVAGAN
+- I am python developer
+- I can use the django to create website.
+- coding is fun to me
+- you can DM for web designing
+-
 - 📫 How to reach me ...via this account
 
 <!---
