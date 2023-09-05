@@ -2,8 +2,8 @@
 - I am python developer
 - I can use the django to create website.
 - coding is fun to me
-- you can DM for web designing
 -
+- 
 - 📫 How to reach me ...via this account
 
 <!---
